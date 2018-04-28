@@ -1,0 +1,6 @@
+﻿  gray.cpp
+d:\worksoftware\visualstudio2015\project\video2pic\video2pic\gray.cpp(180): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+d:\worksoftware\visualstudio2015\project\video2pic\video2pic\gray.cpp(209): warning C4305: “+=”: 从“double”到“float”截断
+d:\worksoftware\visualstudio2015\project\video2pic\video2pic\gray.cpp(236): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  video2pic.vcxproj -> D:\WorkSoftware\VisualStudio2015\project\video2pic\x64\Debug\video2pic.exe
+  video2pic.vcxproj -> D:\WorkSoftware\VisualStudio2015\project\video2pic\x64\Debug\video2pic.pdb (Full PDB)
